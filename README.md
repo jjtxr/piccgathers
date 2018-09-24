@@ -1,6 +1,6 @@
 # piccgathers
 
-Hey guys, I'm the developer from piccgathers and I just found the server-side script from the good old CS 1.6.
+Hey guys, I'm the developer from piccgathers. I just found the server-side script from the good old CS 1.6 and decided to make it public.
 
 What's this? You can find all the information on this thread from 20/08/2013
 https://www.hltv.org/blog/7019/cs-16-gathers
