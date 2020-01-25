@@ -5,7 +5,7 @@ Hey guys, I'm the developer from piccgathers. I just found the server-side scrip
 What's this? You can find all the information on this thread from 20/08/2013
 https://www.hltv.org/blog/7019/cs-16-gathers
 
-#### Nostalgic
+#### Nostalgy
 If you already knew about us, here are some links to feel nostalgic:
 * https://forums.alliedmods.net/showthread.php?t=224264
 * https://www.hltv.org/forums/threads/734176/piccgathers
