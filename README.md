@@ -1,4 +1,4 @@
-# piccgathers @ 2013
+# piccgathers @ 2013-2014
 
 Hey guys, I'm the developer from piccgathers. I just found the server-side script on an external HDD, from the good old CS 1.6 and decided to share it to the public.
 
