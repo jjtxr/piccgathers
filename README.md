@@ -11,7 +11,10 @@ https://www.hltv.org/blog/7019/cs-16-gathers
 ![v1](https://forums.alliedmods.net/image-proxy/f9dfacdcdbab4b16209bba1397cd6a1fcd9afac0/687474703a2f2f7374617469632e686c74762e6f72672f696d616765732f67616c6c65726965732f353036312d6d656469756d2f313337373031373932392e363439332e6a706567)
 
 #### v2 @ 2014
-![v2](https://github.com/ezzejr/pic-hoster/blob/master/i/VhASez2.png) ![v2](https://github.com/ezzejr/pic-hoster/blob/master/i/bCDjwMY.png?raw=true)
+![v2](https://github.com/ezzejr/pic-hoster/blob/master/i/VhASez2.png) 
+![v2](https://github.com/ezzejr/pic-hoster/blob/master/i/bCDjwMY.png?raw=true)
+![v2](https://github.com/ezzejr/pic-hoster/blob/master/i/3sIVVpA.png?raw=true)
+![v2](https://github.com/ezzejr/pic-hoster/blob/master/i/8mF8lHT.png?raw=true)
 ![v2](https://github.com/ezzejr/pic-hoster/blob/master/i/pzQadP1.jpg?raw=true)
 ![v2](https://github.com/ezzejr/pic-hoster/blob/master/i/RLVpqOI.jpg?raw=true)
 
